@@ -4,12 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
 # Xin chào, tôi là Hoang Anh 👋
 
 Sinh viên mới ra trường, đang trên hành trình khám phá thế giới **Quant Trading** và tài chính định lượng.
